@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the Firs Git Platform Developed in Sri Lanka
+THis is the Sri Lankan First Git Platform
 
 Development Start - 19 October 2024
 
